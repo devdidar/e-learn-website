@@ -1,0 +1,23 @@
+[
+    {
+      "plan": "Starter Plan",
+      "price": "$50",
+      "quantity": 7,
+      "validity": 90,
+      "img": "https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/GASGAhEYWd.png"
+    },
+    {
+      "plan": "Pro Plan",
+      "price": "$90",
+      "quantity": 15,
+      "validity": 180,
+      "img": "https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/eyLzcgFopq.png"
+    },
+    {
+      "plan": "Legendary Plan",
+      "price": "$170",
+      "quantity": 30,
+      "validity": 365,
+      "img": "https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/AsWDufPHmc.png"
+    }
+  ]

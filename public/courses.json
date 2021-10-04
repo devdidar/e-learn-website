@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Finance",
+      "author": "mitson taylor",
+      "duration": "6 hours",
+      "enrolled": "3123",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/GSONUsVrZH.png"
+    },
+    {
+      "id": 2,
+      "name": "beginners stock market",
+      "author": "harry nicholas",
+      "duration": "4.5 hours",
+      "enrolled": "2423",
+      "price": "$35",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/EAyhjnXeBk.png"
+    },
+    {
+      "id": 3,
+      "name": "stock investing beginners guide",
+      "author": "williamson",
+      "duration": "5.5 hours",
+      "enrolled": "1123",
+      "price": "$20",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/MrsqasSfbG.png"
+    },
+    {
+      "id": 4,
+      "name": "financial planning",
+      "author": "hamitson XX",
+      "duration": "2.5 hours",
+      "enrolled": "11232",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/yNhfCgCtbH.png"
+    },
+    {
+      "id": 5,
+      "name": "alternative insurance",
+      "author": "ben stocks",
+      "duration": "6 hours",
+      "enrolled": "2723",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/efaYaSWpCO.png"
+    },
+    {
+      "id": 6,
+      "name": "time management in productive way",
+      "author": "mansur ilahi",
+      "duration": "6 hours",
+      "enrolled": "6123",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/efmEwCpWOt.png"
+    },
+    {
+      "id": 7,
+      "name": "invest stock in dogecoin",
+      "author": "elon musk",
+      "duration": "6 hours",
+      "enrolled": "112343",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/AWckXLKuIC.png"
+    },
+    {
+      "id": 8,
+      "name": "best way to save money",
+      "author": "eon morgan",
+      "duration": "6 hours",
+      "enrolled": "13123",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/sOVGZbcWGP.png"
+    },
+    {
+      "id": 9,
+      "name": "enter in market as a investor",
+      "author": "ankur wariko",
+      "duration": "6 hours",
+      "enrolled": "3123",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/QZZTSdCyHh.png"
+    },
+    {
+      "id": 10,
+      "name": "invest in crypto",
+      "author": "mayank hoja",
+      "duration": "6 hours",
+      "enrolled": "91123",
+      "price": "$25",
+      "img":"https://d24uab5gycr2uz.cloudfront.net/uploads/article_category_image/ygNKjWlaxq.png"
+    }
+  ]

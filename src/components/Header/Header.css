@@ -1,0 +1,11 @@
+.header {
+  background-color: #f5f3fd;
+  padding: 20px 15px;
+}
+
+.nav-menu {
+  margin-right: 100px;
+}
+.logo {
+  cursor: pointer;
+}
